@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm ShiDdos</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shiddos&label=Profile%20views&color=dd0303&style=flat" alt="shiddos" /> </p>
+<p align="right"> <img src="https://i.pinimg.com/originals/d3/bf/b1/d3bfb12d505ee43ffed83b0cc8007eab.gif" /> </p>
 
 - 📫 How to reach me **shiddos0@gmail.com**
 
