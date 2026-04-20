@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ShiDdos and I'm a half stack dev, from Turkiye.</h2>
+<h2 align="left">Hi 👋! My name is ShiDdos and I'm a cyber addict, from Turkiye.</h2>
 
 ###
 
