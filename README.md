@@ -67,6 +67,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ShiDdos/ShiDdos/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ShiDdos/profile-readme/refs/heads/main/public/assets/snake.svg" alt="Snake animation" />
 
 ###
