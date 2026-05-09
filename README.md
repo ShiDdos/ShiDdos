@@ -4,7 +4,7 @@
 
 
 
-<img align="right" height="212" src="https://i.hizliresim.com/s6kxe8z.jpg"  />
+<img align="center" height="212" src="https://i.hizliresim.com/s6kxe8z.jpg"  />
 
 ###
 
